@@ -1,0 +1,13 @@
+j:\visual studio 2010\Projects\WindowsFormsApplication1\CoreFunctions\bin\Debug\CoreFunctions.dll
+j:\visual studio 2010\Projects\WindowsFormsApplication1\CoreFunctions\bin\Debug\CoreFunctions.pdb
+j:\visual studio 2010\Projects\WindowsFormsApplication1\CoreFunctions\obj\Debug\ResolveAssemblyReference.cache
+j:\visual studio 2010\Projects\WindowsFormsApplication1\CoreFunctions\obj\Debug\CoreFunctions.dll
+j:\visual studio 2010\Projects\WindowsFormsApplication1\CoreFunctions\obj\Debug\CoreFunctions.pdb
+j:\visual studio 2010\Projects\WindowsFormsApplication1\CoreFunctions\bin\Debug\AForge.Imaging.dll
+j:\visual studio 2010\Projects\WindowsFormsApplication1\CoreFunctions\bin\Debug\AForge.dll
+j:\visual studio 2010\Projects\WindowsFormsApplication1\CoreFunctions\bin\Debug\AForge.Math.dll
+j:\visual studio 2010\Projects\WindowsFormsApplication1\CoreFunctions\bin\Debug\AForge.Imaging.xml
+j:\visual studio 2010\Projects\WindowsFormsApplication1\CoreFunctions\bin\Debug\AForge.xml
+j:\visual studio 2010\Projects\WindowsFormsApplication1\CoreFunctions\bin\Debug\AForge.Math.xml
+J:\visual studio 2010\Projects\WindowsFormsApplication1\CoreFunctions\bin\Debug\common.dll
+J:\visual studio 2010\Projects\WindowsFormsApplication1\CoreFunctions\bin\Debug\common.pdb
